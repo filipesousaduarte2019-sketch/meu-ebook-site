@@ -1,0 +1,5 @@
+/meu-ebook-site
+   ├── index.html      → Página inicial
+   ├── quiz.html       → Quiz com 8 perguntas e prévia do e-book
+   ├── capa_ebook.jpg  → Imagem da capa do e-book
+   └── seu_ebook.pdf   → Arquivo PDF do e-book
